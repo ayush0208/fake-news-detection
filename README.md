@@ -8,3 +8,5 @@ The algorithms which have been used are :-
 4. Voting Classifier
 5. CNN
 6. RNN
+
+The dataset used has also been provided
